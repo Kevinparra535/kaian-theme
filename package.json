@@ -2,7 +2,7 @@
   "name": "kaian",
   "displayName": "Kaian Dark",
   "description": "Minimalist theme with tones and colors of the 80s",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.63.0"
   },
