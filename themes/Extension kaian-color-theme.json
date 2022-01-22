@@ -2,10 +2,126 @@
   "name": "Kaian Dark",
   "type": "dark",
   "colors": {
-    "editor.background": "#180a2e",
-    "editor.foreground": "#eeffff",
+
+    // Colores base
+    "focusBorder": "#080926",
+    "foreground": "#FFFFFF",
+    "widget.shadow": "#000000",
+    "selection.background": "#180a2e",
+    "descriptionForeground": "#FFFFFF",
+    "icon.foreground": "#e6444e",
+
+    // Borde de la ventana
+    "window.activeBorder": "#080926",
+    "window.inactiveBorder": "#241044",
+
+
+    // Control de botones
+    "button.background": "#e6444e",
+    "button.foreground": "#FFFFFF",
+    "button.border": "#080926",
+
+    // Control desplegable/selects
+    "dropdown.background": "#080926",
+    "dropdown.listBackground": "#241044",
+    "dropdown.border": "#502c8a",
+    "dropdown.foreground": "#FFFFFF",
+
+    // Control de entrada/Inputs
+    "input.background": "#180a2e",
+    "input.border": "#502c8a",
+    "input.foreground": "#FFFFFF",
+    "input.placeholderForeground": "#FFFFFF",
+
+    // Badges
+    "badge.foreground": "#e6444e",
+    "badge.background": "#502c8a",
+
+    // Barra de progreso
+    "progressBar.background": "#180a2e",
+    "list.dropBackground": "#241044",
+    "list.focusBackground": "#080926",
+    "list.focusHighlightForeground": "#080926",
+    "list.focusOutline": "#241044",
+    "list.hoverBackground": "#502c8a",
+    "list.hoverForeground": "#ffffff",
+    "list.inactiveSelectionBackground": "#241044",
+
+    // Listas y árboles
+    "list.activeSelectionBackground": "#241044",
+    "list.activeSelectionForeground": "#ffffff",
+
+    // Barra de actividades
+    "activityBar.background": "#080926",
+    "activityBar.dropBorder": "#e6444e",
+    "activityBar.foreground": "#e6444e",
+    "activityBar.inactiveForeground": "#e6444f8e",
+    "activityBar.activeBorder": "#e6444e",
     "activityBarBadge.background": "#502c8a",
-    "sideBarTitle.foreground": "#ffffff"
+    "activityBarBadge.foreground": "#ffffff",
+    "activityBar.activeBorder": "#e6444e",
+    "activityBar.activeBackground": "#080926",
+    "activityBar.activeFocusBorder": "#e6444e",
+
+    // Barra lateral
+    "sideBar.background": "#080926",
+    "sideBarTitle.foreground": "#ffffff",
+    "sideBar.border": "#e6444f32",
+    "sideBarSectionHeader.background": "#080926",
+
+    // Editor/pestañas
+    "editorGroup.border": "#e6444e",
+    "editorGroup.dropBackground": "#180a2e",
+    "editorGroupHeader.tabsBackground": "#080926",
+    "editorGroupHeader.tabsBorder": "#180a2e",
+    "editorGroupHeader.border": "#180a2e",
+    "editorGroup.emptyBackground": "#180a2e",
+
+    "tab.activeBackground": "#14013a",
+    "tab.unfocusedActiveBackground": "#180a2e",
+    "tab.activeForeground": "#ffffff",
+    "tab.activeBorder": "#e6444e",
+    "tab.inactiveBackground": "#080926",
+    "tab.hoverBackground": "#e6444e",
+    "tab.hoverForeground": "#f371b4",
+
+    // Editor
+    "editor.background": "#241044",
+    "editor.foreground": "#ffffff",
+    "editorLineNumber.foreground": "#502c8a",
+    "editorLineNumber.activeForeground": "#e6444e",
+    "editorCursor.foreground": "#502c8a",
+    "editorCursor.background": "#502c8a",
+    "editor.selectionBackground": "#502c8a",
+
+    // Widget editor
+    "editorWidget.background": "#241044",
+
+    // Input de busqueda
+    "searchEditor.textInputBorder": "#e6444e",
+
+    // Coincidencias de brackets:
+    "editorBracketMatch.background": "#502c8a",
+    "editorBracketMatch.border": "#e6444e",
+
+    // Plegables
+    "editor.foldBackground": "#f371b4",
+
+    // Barra de estado
+    "statusBar.foreground": "#ffffff",
+    "statusBar.background": "#080926",
+    "statusBar.noFolderForeground": "#ffffff",
+    "statusBar.noFolderBackground": "#080926",
+    "statusBarItem.hoverBackground": "#241044",
+    "statusBarItem.remoteBackground": "#e6444e",
+    "statusBarItem.remoteForeground": "#ffffff",
+
+    // Barra de título
+    "titleBar.activeBackground": "#080926",
+    "titleBar.activeForeground": "#ffffff",
+
+    // Barra de menús
+    "menu.background": "#e6444e"
   },
   "tokenColors": [
     {
@@ -20,7 +136,7 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#ff00ff"
+        "foreground": "#e6444e"
       }
     },
     {
@@ -34,7 +150,7 @@
       "name": "Invalid",
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
-        "foreground": "#FF5370"
+        "foreground": "#e02733"
       }
     },
     {

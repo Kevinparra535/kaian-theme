@@ -2,7 +2,7 @@
   "name": "kaian",
   "displayName": "Kaian Dark",
   "description": "Minimalist theme with tones and colors of the 80s",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.63.0"
   },
@@ -19,14 +19,23 @@
     ]
   },
   "icon": "icons/kaian-dark.png",
+  "galleryBanner": {
+    "color": "#080926",
+    "theme": "dark"
+  },
   "author": {
     "name": "Kevin Parra Lopez",
     "email": "kevinparra535@gmail.com",
     "url": "https://www.kevinparralopez.com"
   },
+  "bugs": {
+    "url": "https://github.com/Kevinparra535/kaian-theme/issues",
+    "email": "kevinparra535@gmail.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Kevinparra535/kaian-theme.git"
   },
-  "publisher": "Kevin Parra Lopez"
+  "homepage": "https://github.com/Kevinparra535/kaian-theme",
+  "publisher": "KevinParraLpez"
 }
