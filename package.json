@@ -23,19 +23,26 @@
     "color": "#080926",
     "theme": "dark"
   },
-  "author": {
-    "name": "Kevin Parra Lopez",
-    "email": "kevinparra535@gmail.com",
-    "url": "https://www.kevinparralopez.com"
-  },
+  "author": "Kevin Parra Lopez <kevinparra535@gmail.com> (https://www.kevinparralopez.com)",
   "bugs": {
     "url": "https://github.com/Kevinparra535/kaian-theme/issues",
     "email": "kevinparra535@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kevinparra535/kaian-theme.git"
+    "url": "git+https://github.com/Kevinparra535/kaian-theme.git"
   },
   "homepage": "https://github.com/Kevinparra535/kaian-theme",
-  "publisher": "KevinParraLpez"
+  "publisher": "KevinParraLpez",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vscode",
+    "theme",
+    "json",
+    "dark"
+  ],
+  "license": "MIT"
 }
