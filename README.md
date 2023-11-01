@@ -1,34 +1,39 @@
-# Kaian theme
+# Kaian Theme para Visual Studio Code
 
-## Welcome to your VS Code Extension
+El tema Kaian es un tema con colores cálidos y vibrantes, diseñado para brindar una experiencia de codificación agradable y estéticamente agradable. Este tema incluye dos variantes: "Light" y "Dark".
 
-### What's in the folder
+## Variantes del Tema
 
-* This folder contains all of the files necessary for your color theme extension.
-* `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
-* `themes/Extension kaian-color-theme.json` - the color theme definition file.
+### Kaian Dark
+La variante "Dark" del tema Kaian utiliza un fondo oscuro con colores de acento vibrantes para brindar una experiencia de codificación relajante y fácil para los ojos. Es ideal para trabajar en entornos con poca luz.
 
-### Get up and running straight away
+### Kaian Light
+La variante "Light" del tema Kaian utiliza un fondo claro con colores de acento suaves para brindar una experiencia de codificación luminosa y fresca. Es ideal para trabajar en entornos con mucha luz.
 
-* Press `F5` to open a new window with your extension loaded.
-* Open `File > Preferences > Color Themes` and pick your color theme.
-* Open a file that has a language associated. The languages' configured grammar will tokenize the text and assign 'scopes' to the tokens. To examine these scopes, invoke the `Developer: Inspect Editor Tokens and Scopes` command from the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac) .
+## Colores Principales
 
-### Make changes
+- **Color Primario**: #DB4F3B
+- **Color Claro**: #FFFFFF
+- **Color Oscuro**: #171717
+- **Color Oscuro Dos**: #141414
+- **Color Variante Uno**: #1a2025
+- **Color Variante Dos**: #191919
+- **Color Variante Tres**: #343434
+- **Color Variante Cuatro**: #252525
+- **Color Variante Cinco**: #4E4E4E
 
-* Changes to the theme file are automatically applied to the Extension Development Host window.
+## Instalación
 
-### Adopt your theme to Visual Studio Code
+1. Abre Visual Studio Code.
+2. Ve a **Ver** > **Extensiones**.
+3. Busca "Kaian" y selecciona el tema.
+4. Haz clic en **Instalar**.
+5. Una vez instalado, selecciona **Configuración** > **Color Theme** > **Kaian Dark** o **Kaian Light** según tu preferencia.
 
-* The token colorization is done based on standard TextMate themes. Colors are matched against one or more scopes.
+## Contribuir
 
-To learn more about scopes and how they're used, check out the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation.
+Si encuentras algún problema o tienes sugerencias para mejorar el tema, no dudes en abrir un [issue](https://github.com/tu-usuario/tu-repositorio/issues) o enviar un [pull request](https://github.com/tu-usuario/tu-repositorio/pulls).
 
-### Install your extension
+## Licencia
 
-* To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
-* To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
-
-
-
-![screenshot initial](images/capture.png)
+Este tema está licenciado bajo la [Licencia MIT](LICENSE.md).

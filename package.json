@@ -1,10 +1,10 @@
 {
   "name": "kaian",
-  "displayName": "Kaian Dark",
-  "description": "Minimalist theme with tones and colors of the 80s",
-  "version": "0.1.1",
+  "displayName": "Kaian",
+  "description": "The Kaian theme is a theme with warm and vibrant colors, designed to provide a pleasant and aesthetically pleasing coding experience. This theme includes two variants: 'Light' and 'Dark'.",
+  "version": "0.2.0",
   "engines": {
-    "vscode": "^1.63.0"
+    "vscode": "^1.84.0"
   },
   "categories": [
     "Themes"
@@ -12,15 +12,20 @@
   "contributes": {
     "themes": [
       {
-        "label": "Extension kaian",
+        "label": "Kaian Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Extension kaian-color-theme.json"
+        "path": "./themes/kaian-color-theme.json"
+      },
+      {
+        "label": "Kaian Light",
+        "uiTheme": "vs",
+        "path": "./themes/kaian-light-color-theme.json"
       }
     ]
   },
   "icon": "icons/kaian-dark.png",
   "galleryBanner": {
-    "color": "#080926",
+    "color": "#DB4F3B",
     "theme": "dark"
   },
   "author": "Kevin Parra Lopez <kevinparra535@gmail.com> (https://www.kevinparralopez.com)",
