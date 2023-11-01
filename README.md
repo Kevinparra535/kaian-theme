@@ -1,39 +1,39 @@
-# Kaian Theme para Visual Studio Code
+# Kaian Theme for Visual Studio Code
 
-El tema Kaian es un tema con colores cálidos y vibrantes, diseñado para brindar una experiencia de codificación agradable y estéticamente agradable. Este tema incluye dos variantes: "Light" y "Dark".
+The Kaian theme is a theme with warm and vibrant colors, designed to provide a pleasant and aesthetically pleasing coding experience. This theme includes two variants: "Light" and "Dark".
 
-## Variantes del Tema
+## Theme Variants
 
 ### Kaian Dark
-La variante "Dark" del tema Kaian utiliza un fondo oscuro con colores de acento vibrantes para brindar una experiencia de codificación relajante y fácil para los ojos. Es ideal para trabajar en entornos con poca luz.
+The "Dark" variant of the Kaian theme uses a dark background with vibrant accent colors to provide a relaxing and eye-friendly coding experience. It is ideal for working in low-light environments.
 
 ### Kaian Light
-La variante "Light" del tema Kaian utiliza un fondo claro con colores de acento suaves para brindar una experiencia de codificación luminosa y fresca. Es ideal para trabajar en entornos con mucha luz.
+The "Light" variant of the Kaian theme uses a light background with soft accent colors to provide a bright and refreshing coding experience. It is ideal for working in well-lit environments.
 
-## Colores Principales
+## Main Colors
 
-- **Color Primario**: #DB4F3B
-- **Color Claro**: #FFFFFF
-- **Color Oscuro**: #171717
-- **Color Oscuro Dos**: #141414
-- **Color Variante Uno**: #1a2025
-- **Color Variante Dos**: #191919
-- **Color Variante Tres**: #343434
-- **Color Variante Cuatro**: #252525
-- **Color Variante Cinco**: #4E4E4E
+- **Primary Color**: #DB4F3B
+- **Light Color**: #FFFFFF
+- **Dark Color**: #171717
+- **Dark Color Two**: #141414
+- **Variant Color One**: #1a2025
+- **Variant Color Two**: #191919
+- **Variant Color Three**: #343434
+- **Variant Color Four**: #252525
+- **Variant Color Five**: #4E4E4E
 
-## Instalación
+## Installation
 
-1. Abre Visual Studio Code.
-2. Ve a **Ver** > **Extensiones**.
-3. Busca "Kaian" y selecciona el tema.
-4. Haz clic en **Instalar**.
-5. Una vez instalado, selecciona **Configuración** > **Color Theme** > **Kaian Dark** o **Kaian Light** según tu preferencia.
+1. Open Visual Studio Code.
+2. Go to **View** > **Extensions**.
+3. Search for "Kaian" and select the theme.
+4. Click on **Install**.
+5. Once installed, select **Settings** > **Color Theme** > **Kaian Dark** or **Kaian Light** according to your preference.
 
-## Contribuir
+## Contribute
 
-Si encuentras algún problema o tienes sugerencias para mejorar el tema, no dudes en abrir un [issue](https://github.com/tu-usuario/tu-repositorio/issues) o enviar un [pull request](https://github.com/tu-usuario/tu-repositorio/pulls).
+If you find any problems or have suggestions for improving the theme, feel free to open an [issue](https://github.com/your-user/your-repository/issues) or send a [pull request](https://github.com/your-user/your-repository/pulls).
 
-## Licencia
+## License
 
-Este tema está licenciado bajo la [Licencia MIT](LICENSE.md).
+This theme is licensed under the [MIT License](LICENSE.md).

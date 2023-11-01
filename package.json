@@ -7,7 +7,9 @@
     "vscode": "^1.84.0"
   },
   "categories": [
-    "Themes"
+    "Themes",
+    "Extension Packs",
+    "Visualization"
   ],
   "contributes": {
     "themes": [
@@ -39,7 +41,6 @@
   },
   "homepage": "https://github.com/Kevinparra535/kaian-theme",
   "publisher": "KevinParraLpez",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -49,5 +50,6 @@
     "json",
     "dark"
   ],
+  "pricing": "Free",
   "license": "MIT"
 }
