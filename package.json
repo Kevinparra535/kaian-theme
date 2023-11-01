@@ -2,7 +2,7 @@
   "name": "kaian",
   "displayName": "Kaian",
   "description": "The Kaian theme is a theme with warm and vibrant colors, designed to provide a pleasant and aesthetically pleasing coding experience. This theme includes two variants: 'Light' and 'Dark'.",
-  "version": "0.2.0",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.84.0"
   },
