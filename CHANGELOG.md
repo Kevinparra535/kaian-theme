@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.1] - 2023-11-02
+### Added
+- New logo.
+### Fixed
+- Visual errors in the Light version.
+- Minor errors in the Dark version.
+
 ## [2.0.0] - 2023-11-02
 ### Added
 - New "Light" theme variant.
@@ -16,6 +23,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Correction of several minor errors.
 
-## [1.0.0] - 2023-10-01
+## [1.0.0] - 2022-22-01
 ### Added
 - Initial release of the "Dark" theme.
