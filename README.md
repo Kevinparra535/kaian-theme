@@ -7,6 +7,8 @@ The Kaian theme is a theme with warm and vibrant colors, designed to provide a p
 ### Kaian Dark
 The "Dark" variant of the Kaian theme uses a dark background with vibrant accent colors to provide a relaxing and eye-friendly coding experience. It is ideal for working in low-light environments.
 
+![Dark mode](https://github.com/Kevinparra535/kaian-theme/blob/master/images/capture.png?raw=true)
+
 ### Kaian Light
 The "Light" variant of the Kaian theme uses a light background with soft accent colors to provide a bright and refreshing coding experience. It is ideal for working in well-lit environments.
 
