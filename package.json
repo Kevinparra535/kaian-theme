@@ -19,6 +19,11 @@
         "path": "./themes/kaian-color-theme.json"
       },
       {
+        "label": "Kaian Dark Blood",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kaian-color-theme-blood.json"
+      },
+      {
         "label": "Kaian Light",
         "uiTheme": "vs",
         "path": "./themes/kaian-light-color-theme.json"

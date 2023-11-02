@@ -7,6 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.4] - 2023-11-02
+### Added
+- New "Dark Blood" theme variant.
+### Fixed
+- Minor errors.
+
+## [2.0.3] - 2023-11-01
+### Fixed
+- Minor errors.
+
+## [2.0.2] - 2023-11-01
+### Fixed
+- Minor errors.
+
 ## [2.0.1] - 2023-11-02
 ### Added
 - New logo.
